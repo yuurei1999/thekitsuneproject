@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkthekitsuneproject=self.webpackChunkthekitsuneproject||[]).push([[9224],{9041:e=>{e.exports=JSON.parse('{"permalink":"/thekitsuneproject/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
