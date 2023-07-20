@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://www.thekitsuneproject.com/',
+  url: 'https://thekitsuneproject.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -77,9 +77,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Mext',
+            label: 'UL',
           },
           {to: '/blog', label: 'Sin N', position: 'left'},
+          {to: '/mext', label: 'Mext', position: 'left'},
           {to: '/recursos', label: 'Recursos', position: 'left'},
           {to: '/about', label: 'Acerca de', position: 'left'},
           {
@@ -144,7 +145,7 @@ const config = {
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
-        respectPrefersColorScheme: true,
+        respectPrefersColorScheme: false,
       },
 
     }),
