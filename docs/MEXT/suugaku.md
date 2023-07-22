@@ -22,7 +22,8 @@ Ahora, seguramente te estás preguntando: ¿Para qué me sirve saber esto? Bueno
 
 Es broma :D . Esto nos sirve para tener una idea de cuáles son los temas que debemos estudiar para el examen de matemáticas de la beca MEXT.
 
-Escribiré cada tema utilizando su término en japonés, junto con su respectiva traducción. De esta manera, si deseas profundizar en alguno de ellos, podrás copiar el término y pegarlo directamente en Google para consultar fuentes japonesas. Además, al buscar estos temas en YouTube, podrás encontrar ejercicios del tipo que encontrarías si estuvieras estudiando en Japón'.
+Encontré un temario del sistema educativo de Japón, en el que se describe el contenido de cada tipo de matemáticas que vimos en la clasificación anterior. A continuación, escribiré cada tema utilizando su término en japonés, junto con su respectiva traducción. De esta manera, si deseas profundizar en alguno de ellos, podrás copiar el término y pegarlo directamente en Google para consultar fuentes japonesas. Además, al buscar estos temas en YouTube, podrás encontrar ejercicios del tipo que encontrarías si estuvieras estudiando en Japón.
+
 ### | 数Ⅰ |
 * 数と式
 * 図形と計量
