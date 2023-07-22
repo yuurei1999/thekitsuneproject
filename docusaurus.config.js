@@ -67,7 +67,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/chizuru.webp',
       navbar: {
         title: 'The Kitsune Project',
         logo: {
@@ -82,9 +82,9 @@ const config = {
             label: 'UL',
           }, */
         //  {to: '/blog', label: 'Sin N', position: 'left'},
-          {to: '/mext', label: 'Mext', position: 'left'},
-          {to: '/recursos', label: 'Recursos', position: 'left'},
-          {to: '/about', label: 'Acerca de', position: 'left'},
+          
+        //  {to: '/recursos', label: 'Recursos', position: 'left'},
+        //  {to: '/about', label: 'Acerca de', position: 'left'},
       /*    {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',

@@ -6,6 +6,13 @@
 html {
   scroll-behavior: smooth;
 }
+h1 {
+  text-align: center;
+}
+.menu__list {
+  display: block !important;
+}
+
 
 
 /* You can override the default Infima variables here. */
