@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Acerca de 
 ## Sobre mí y el sitio 
 Hola amig@ 🤖 mi nombre es Mau y me encuentro estudiando informática. El objetivo de este sitio es poner en práctica lo que aprendo sobre desarrollo web y al mismo tiempo compartir recursos que me han ayudado con el aprendizaje del idioma japonés.

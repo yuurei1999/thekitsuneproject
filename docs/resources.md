@@ -1,14 +1,11 @@
----
-sidebar_position: 5
----
-# Aprender japonés
-
-## Guías sobre cómo adquirir el idioma
-* [TheMoeWay](https://learnjapanese.moe/)
+# Recursos
+## Aprender Japonés
+### Guías sobre cómo adquirir el idioma
+* [※ TheMoeWay](https://learnjapanese.moe/)
 * [Refold](https://refold.la/es/)
 * [AJATT](http://www.alljapaneseallthetime.com/)
 
-## Estudiar gramática
+### Estudiar gramática
 * [Maggie Sensei](https://maggiesensei.com/)
 * [Guía gramatical de Tae Kim (en español)](http://www.guidetojapanese.org/spanish/)
 * [Guía gramatical de Tae Kim (en inglés)](https://guidetojapanese.org/learn/grammar/)
@@ -17,13 +14,13 @@ sidebar_position: 5
 * [mlcjapanese](https://www.mlcjapanese.co.jp/n4.html)
 * [Tofugu](https://www.tofugu.com/)
 
-## Canales de YouTube
+### Canales de YouTube
 * [En japonés con Rafy](https://www.youtube.com/c/EnJapon%C3%A9sConRafy)
 * [Japonés con Lily](https://www.youtube.com/c/Japon%C3%A9sconLily)
-* [Japanese Ammo with Misa](https://www.youtube.com/c/JapaneseAmmowithMisa)
+* [※ Japanese Ammo with Misa](https://www.youtube.com/c/JapaneseAmmowithMisa)
 * [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)
 * [Masa Sensei](https://www.youtube.com/c/MasaSensei)
-* [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
+* [※ Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
 * [Learn Japanese with JapanesePod101](https://www.youtube.com/c/japanesepod101)
 * [日本語の森](https://www.youtube.com/c/nihongonomori2013)
 * [日本語 to 旅 〜Nihongo to Tabi〜](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ)

@@ -25,7 +25,7 @@ const sidebars = {
       label: 'MEXT',
       items: ['MEXT/mext_docs','MEXT/suugaku'],
     },
-    'about_docs'
+    'resources', 'about_docs'
     
   ],
    
