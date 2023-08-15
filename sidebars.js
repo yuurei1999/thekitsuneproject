@@ -23,7 +23,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'MEXT',
-      items: ['MEXT/mext_docs','MEXT/suugaku'],
+      items: ['MEXT/mext_docs','MEXT/suugaku','MEXT/english'],
     },
     'resources', 'about_docs'
     
