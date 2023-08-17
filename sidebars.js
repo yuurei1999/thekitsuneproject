@@ -25,7 +25,23 @@ const sidebars = {
       label: 'MEXT',
       items: ['MEXT/mext_docs','MEXT/suugaku','MEXT/english'],
     },
-    'resources', 'about_docs'
+    {
+      type: 'category',
+      label: 'Japonés',
+      items: [
+        {
+          type: 'category',
+          label: 'JLPT',
+          items: [
+            'Japanese/jlpt/n4'
+          ],
+         
+          
+        }
+      ]
+    }
+    
+    ,'resources', 'about_docs'
     
   ],
    

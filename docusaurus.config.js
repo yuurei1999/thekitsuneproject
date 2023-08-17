@@ -161,5 +161,15 @@ const config = {
 };
 
 module.exports = config;
-
+module.exports = {
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-93FPWJN7V1',
+        anonymizeIP: true,
+      },
+    ],
+  ],
+};
 
