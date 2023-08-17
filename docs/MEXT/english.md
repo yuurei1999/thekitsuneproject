@@ -63,7 +63,8 @@ Es posible que en tiendas como Amazon encuentres la versión anterior de este li
 ### Diccionarios Inglés - Inglés
 * [Merriam-Webster](https://www.merriam-webster.com/) - Está más enfocado al inglés de Estados Unidos.
 * [Cambridge Dictionary](https://dictionary.cambridge.org/us/) 
-* [Oxford Learner's Dictionaries](https://www.collinsdictionary.com/) 
+* [Collins Dictionary](https://www.collinsdictionary.com/) 
+* [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/) 
 * [OneLook Dictionary Search](https://www.onelook.com/) - Busca en múltiples diccionarios a la vez.
 
 ### Otros sitios web / aplicaciones 

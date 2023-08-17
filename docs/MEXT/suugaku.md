@@ -20,6 +20,15 @@ Y generalmente se imparten en el siguiente orden:
 
 Ahora, seguramente te estás preguntando: ¿Para qué me sirve saber esto? Bueno, la respuesta es simple. Esto nos sirve para tener una idea de cuáles son los temas que debemos estudiar para el examen de matemáticas de la beca MEXT.
 
+## | Temario Beca MEXT |
+
+### Temario NO oficial creado por la comunidad
+El siguiente temario yo lo encontré en una publicación de Reddit y lo comparto aquí para darle crédito a su creador y para que tengas una idea de los temas que debes estudiar para el examen de matemáticas de la beca MEXT.
+
+* [Temario](/files/Detailed_MEXT_Undergrad_Syllabus.pdf) - Click para descargar el temario en PDF
+
+
+### Temario del sistema educativo de Japón  (Esta sección se encuentra en construcción)
 Encontré un temario del sistema educativo de Japón, en el que se describe el contenido de cada tipo de matemáticas que vimos en la clasificación anterior. A continuación, escribiré cada tema utilizando su término en japonés, junto con su respectiva traducción. De esta manera, si deseas profundizar en alguno de ellos, podrás copiar el término y pegarlo directamente en Google para consultar fuentes japonesas. Además, al buscar estos temas en YouTube, podrás encontrar ejercicios del tipo que encontrarías si estuvieras estudiando en Japón.
 
 ### | 数Ⅰ |
