@@ -35,15 +35,7 @@ const config = {
     locales: ['en'],
   },
 
-  plugins: [
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        trackingID: 'G-93FPWJN7V1',
-        anonymizeIP: true,
-      },
-    ],
-  ],
+  
   
   presets: [
     [
@@ -71,6 +63,11 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        gtag: {
+          trackingID: 'G-93FPWJN7V1',
+          anonymizeIP: true,
+        },
+
       }),
     ],
   ],
