@@ -2,7 +2,12 @@
   "index_name": "TheKitsuneProject",
   "sitemap_urls": ["https://theKitsuneproject.com/sitemap.xml"],
   "sitemap_alternate_links": true,
-
+  "stop_urls": [
+    "https://thekitsuneproject.com/blog/welcome",
+    "https://thekitsuneproject.com/blog/mdx-blog-post",
+    "https://thekitsuneproject.com/blog/long-blog-post",
+    "https://thekitsuneproject.com/blog/first-blog-post"
+  ],
   "selectors": {
     "lvl0": {
       "selector": "(//ul[contains(@class,'menu__list')]//a[contains(@class, 'menu__link menu__link--sublist menu__link--active')]/text() | //nav[contains(@class, 'navbar')]//a[contains(@class, 'navbar__link--active')]/text())[last()]",

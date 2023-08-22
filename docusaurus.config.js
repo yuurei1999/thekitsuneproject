@@ -76,16 +76,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
-        apiKey: '4167f457dc44f83576e702e2436a7424', 
-        indexName: 'TheKitsuneProject',
-        contextualSearch: true,
-        placeholder: 'Buscar',
-        appId: '05RPA4HWF4',
-        //other search parameters
-      } ,
-
-
       // Replace with your project's social card
       image: 'img/chizuru.webp',
       navbar: {
@@ -182,8 +172,15 @@ const config = {
             // ... otras opciones
           },
         ],
-      ],
-
+       ],
+      algolia: {
+        placeholder: 'Buscar',
+        apiKey: '4167f457dc44f83576e702e2436a7424', 
+        indexName: 'TheKitsuneProject',
+        contextualSearch: true,
+        appId: '05RPA4HWF4',
+        //other search parameters
+      } ,
     }),
     
 };
