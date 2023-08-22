@@ -79,10 +79,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-        apiKey: '004fee1ffef6e187513eb225f5a1c369', 
+        apiKey: '4167f457dc44f83576e702e2436a7424', 
         indexName: 'thekitsuneproject',
         contextualSearch: true,
-        appId: 'LPJETVWFMW',
+        appId: '05RPA4HWF4',
         translations: docSearchTranslations,
         placeholder: "Busca información en el sitio web",
         //other search parameters
