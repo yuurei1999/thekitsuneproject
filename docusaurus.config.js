@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const docSearchTranslations = require('./docsearch-translations');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -78,12 +79,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-        apiKey: '4167f457dc44f83576e702e2436a7424', 
-        indexName: 'TheKitsuneProject',
+        apiKey: '004fee1ffef6e187513eb225f5a1c369', 
+        indexName: 'thekitsuneproject',
         contextualSearch: true,
-        placeholder: "Buscar",
-        appId: '05RPA4HWF4',
-       
+        appId: 'LPJETVWFMW',
+        translations: docSearchTranslations,
+        placeholder: "Busca información en el sitio web",
         //other search parameters
       } ,
       // Replace with your project's social card
