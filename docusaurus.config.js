@@ -76,6 +76,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        apiKey: '4167f457dc44f83576e702e2436a7424', 
+        indexName: 'TheKitsuneProject',
+        contextualSearch: true,
+        placeholder: 'Buscar',
+        appId: '05RPA4HWF4',
+        //other search parameters
+      } ,
+
+
       // Replace with your project's social card
       image: 'img/chizuru.webp',
       navbar: {
@@ -162,7 +172,17 @@ const config = {
         respectPrefersColorScheme: false,
       },
 
-  
+      plugins: [
+        [
+          '@docusaurus/plugin-sitemap',
+          {
+            cacheTime: 600 * 1000, // 600 sec - cache purge period
+            changefreq: 'weekly',
+            priority: 0.5,
+            // ... otras opciones
+          },
+        ],
+      ],
 
     }),
     
