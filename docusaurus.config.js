@@ -84,9 +84,13 @@ const config = {
         contextualSearch: true,
         appId: '05RPA4HWF4',
         translations: docSearchTranslations,
-        placeholder: "Busca información en el sitio web",
-        //other search parameters
+
+        algoliaOptions: {
+          placeholder: {
+            default: "Buscar en el sitio web",
+          },
       } ,
+    },
       // Replace with your project's social card
       image: 'img/chizuru.webp',
       navbar: {
